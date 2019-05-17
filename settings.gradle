@@ -1,0 +1,10 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'reactive'
+
+include 'tutorial'
+include 'front'
+include 'webFlux'
